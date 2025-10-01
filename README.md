@@ -31,8 +31,11 @@
 ![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsLewis-DE&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ItsLewis-DE&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLewis-DE&layout=compact&theme=tokyonight)
-## Trophy:
+## Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItsLewis-DE&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Lewis's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsLewis-DE&theme=tokyo-night)
+
 
 
 
