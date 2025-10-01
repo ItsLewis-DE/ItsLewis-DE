@@ -42,7 +42,6 @@
 </div>
 
 ---
-<img width="929" height="1843" alt="image" src="https://github.com/user-attachments/assets/121fe2bf-73ef-4281-a2fe-ab73188538a5" style="max-height: 400px; object-fit: contain;" />
 
 <h3 style="font-size: 1.1em;">📸 Photographer tại Ban Truyền Thông (thuộc Đội Sinh Viên Tình Nguyện Khoa Toán - Tin Học)</h3>
 <h3 style="font-size: 1.1em;">📸 Tổ trưởng tổ Tư Liệu tại Ban Truyền Thông MAT</h3>
