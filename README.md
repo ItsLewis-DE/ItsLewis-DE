@@ -12,4 +12,5 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
