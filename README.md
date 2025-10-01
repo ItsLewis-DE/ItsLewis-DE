@@ -35,7 +35,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItsLewis-DE&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📈 GitHub Activity Graph:
 ![Lewis's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsLewis-DE&theme=tokyo-night)
-
+<div align="center">
+**Activites at university**
+</div>
 
 
 
