@@ -31,4 +31,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ItsLewis-DE&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLewis-DE&layout=compact&theme=tokyonight)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=ItsLewis-DE&show_icons=true&theme=tokyonight)
 
