@@ -38,7 +38,7 @@
 
 
 <div align="center">
-  <h1 style="font-size: 2em;">📚 Something about me 📚</h1>
+  <h1 style="font-size: 2 em;">📚 Something about me 📚</h1>
 </div>
 
 ---
