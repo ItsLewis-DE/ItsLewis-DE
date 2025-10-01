@@ -33,7 +33,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLewis-DE&layout=compact&theme=tokyonight)
 ## Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItsLewis-DE&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
+## My activities:
 ![Lewis's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsLewis-DE&theme=tokyo-night)
 
 
