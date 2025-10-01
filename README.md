@@ -1,6 +1,8 @@
 # Xin chào 👋
 
 Đây là GitHub profile của mình!
+- 🔭 I'm currently working on **Data Science
+- 📫 How to reach me https://www.facebook.com/phong.thanh.471394/
 ## 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
