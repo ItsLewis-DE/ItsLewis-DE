@@ -38,13 +38,12 @@
 
 
 <div align="center">
-  # 📚 Something about me 📚
+  <h1 style="font-size: 2.5em;">📚 Something about me 📚</h1>
 </div>
 
 ---
 
 ### 🔗 Photographer tại Ban Truyền Thông (thuộc Đội Sinh Viên Tình Nguyện Khoa Toán - Tin Học)
-
-Với niềm say mê nhiếp ảnh và tài năng riêng, tôi đã đóng góp nhiều tác phẩm hình ảnh chất lượng cao cho Đội.
+**Với niềm say mê nhiếp ảnh và tài năng riêng, tôi đã đóng góp nhiều tác phẩm hình ảnh chất lượng cao cho Đội.**
 
 
