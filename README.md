@@ -1,6 +1,10 @@
-# Xin chào 👋
+<div align="center">
 
-                                                                                I'm
+# Hi 👋, I'm Zhehao Zhang
+
+A first-year PhD student in Computer Science at OSU, focusing on NLP.
+
+</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=ItsLewis-DE&label=Profile%20views&color=0e75b6&style=flat)
 - 🔭 I'm currently working on **Data Science**
