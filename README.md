@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Phong Thanh
 
-A second-year Data Science student at the University of Science, VNU-HCM (HCMUS).
+**A second-year Data Science student at the University of Science, VNU-HCM (HCMUS).**
 
 </div>
 
