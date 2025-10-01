@@ -38,12 +38,11 @@
 
 
 <div align="center">
-  <h1 style="font-size: 2 em;">📚 Something about me 📚</h1>
+  <h1 style="font-size: 1.8em;">📚 Something about me 📚</h1>
 </div>
 
 ---
 
-### 📸 Photographer tại Ban Truyền Thông (thuộc Đội Sinh Viên Tình Nguyện Khoa Toán - Tin Học)
-### 📸 Tổ trưởng tổ Tư Liệu tại Ban Truyền Thông MAT
-
+<h3 style="font-size: 1.1em;">📸 Photographer tại Ban Truyền Thông (thuộc Đội Sinh Viên Tình Nguyện Khoa Toán - Tin Học)</h3>
+<h3 style="font-size: 1.1em;">📸 Tổ trưởng tổ Tư Liệu tại Ban Truyền Thông MAT</h3>
 
