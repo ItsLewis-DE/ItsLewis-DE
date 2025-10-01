@@ -44,7 +44,10 @@
 ---
 
 <h3 style="font-size: 1.1em;">📸 Photographer tại Ban Truyền Thông (thuộc Đội Sinh Viên Tình Nguyện Khoa Toán - Tin Học)</h3>
+
 Tham gia ghi lại những khoảnh khắc và sự kiện quan trọng của khoa, đảm bảo chất lượng hình ảnh chuyên nghiệp cho các kênh truyền thông chính thức. Công việc này đã rèn luyện cho tôi khả năng **quan sát chi tiết**, **xử lý thông tin nhanh** dưới áp lực thời gian, và kỹ năng **sử dụng các công cụ chỉnh sửa ảnh** như Adobe Lightroom/Illustrator.
+
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=white)
 
 <h3 style="font-size: 1.1em;">📸 Tổ trưởng tổ Tư Liệu tại Ban Truyền Thông MAT</h3>
 
