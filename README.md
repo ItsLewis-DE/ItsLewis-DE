@@ -38,10 +38,39 @@
 
 
 <div align="center">
-  
-**Activites at university**
-
+  # 📚 Something about me 📚
 </div>
+
+---
+
+### 🔗 {{Vị trí/Vai trò hiện tại}} tại {{Tên Tổ chức/Công ty/Trường}}
+
+<details>
+  <summary>Xem thêm chi tiết</summary>
+
+- 📌 **Thành viên/Đảm nhận vai trò:** {{Vị trí/Tên CLB/Ban}} từ năm **{{Năm bắt đầu}}**.
+- 🌟 **Nhiệm vụ chính:** {{Mô tả nhiệm vụ chính, ví dụ: sáng tạo nội dung, quản lý dự án, phát triển sản phẩm,...}}.
+- 💡 **Thành tựu/Sự kiện nổi bật:** {{Liệt kê các sự kiện/thành tựu quan trọng, ví dụ: Đạt giải X, tổ chức sự kiện Y, phát triển tính năng Z, ...}}.
+
+</details>
+
+### 🔗 {{Vị trí/Vai trò cũ hoặc khác}} tại {{Tên Tổ chức/Trường}}
+
+<details>
+  <summary>Xem thêm chi tiết</summary>
+
+- 📌 **Thành viên/Đảm nhận vai trò:** {{Vị trí/Tên CLB/Ban}} từ năm **{{Năm bắt đầu}}**.
+- 🌟 **Nhiệm vụ chính:** {{Mô tả nhiệm vụ chính}}.
+- 💡 **Vai trò cụ thể (nếu có):** {{Liệt kê các vai trò như: Event Manager, Copy Writer, Developer, ...}}.
+
+</details>
+
+---
+
+### 📬 Liên hệ với tôi
+
+- 🔗 **Facebook:** [Tên Facebook](**{{Đường dẫn Facebook của bạn}}**)
+- 📧 **Hoặc Email:** **{{Địa chỉ Email của bạn}}**
 
 
 
