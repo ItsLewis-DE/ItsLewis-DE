@@ -21,4 +21,5 @@ This is my Github profile!
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
 
-![Top Langs](https://github-re)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLewis-DE&layout=compact&theme=default)
+
