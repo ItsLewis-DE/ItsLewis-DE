@@ -9,8 +9,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ItsLewis-DE&label=Profile%20views&color=0e75b6&style=flat)
 - 🔭 I'm currently working on **Data Science**
-- I really like reading books 📚
-- I am really curious about univers 🌌
+- 📚 I really like reading books 
+- 🌌 I am really curious about univers 
 - 📫 How to reach me [Facebook](https://www.facebook.com/phong.thanh.471394/)
 
 ## 🛠️ Tech Stack:
