@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Zhehao Zhang
+# Hi 👋, I'm Phong Thanh
 
-A first-year PhD student in Computer Science at OSU, focusing on NLP.
+A second-year Data Science student at the University of Science, VNU-HCM (HCMUS).
 
 </div>
 
