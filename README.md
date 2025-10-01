@@ -1,6 +1,7 @@
 # Xin chào 👋
 
 Đây là GitHub profile của mình!
+
 ![Profile views](https://komarev.com/ghpvc/?username=ItsLewis-DE&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I'm currently working on **Data Science**
