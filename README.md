@@ -20,6 +20,6 @@ This is my Github profile!
 
 
 <img src="https://camo.githubusercontent.com/f65d5d3c87305160a9eb7f30b5f67c3616b5e1e5d0e9c7197792bbcb9943f7ac/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313730383831362f73637265656e73686f74732f31353633373235362f6d656469612f66393832366630616638613439343632663034383236326138353032303335622e676966" width="400" />
-
+![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsLewis-DE&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLewis-DE&layout=compact&theme=default)
 
