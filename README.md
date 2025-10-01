@@ -32,5 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLewis-DE&layout=compact&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItsLewis-DE&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A400&lines=Welcome+to+my+GitHub!;Second-year+Data+Science+Student;Always+learning+new+things+🚀)
+
 
 
