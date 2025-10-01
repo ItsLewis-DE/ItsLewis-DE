@@ -27,5 +27,4 @@ This is my Github profile!
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ItsLewis-DE&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLewis-DE&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLewis-DE&layout=compact&theme=tokyonight)
 
