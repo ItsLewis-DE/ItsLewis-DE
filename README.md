@@ -1,7 +1,9 @@
 # Xin chào 👋
 
 Đây là GitHub profile của mình!
-- 🔭 I'm currently working on **Data Science
+![Profile views](https://komarev.com/ghpvc/?username=ItsLewis-DE&label=Profile%20views&color=0e75b6&style=flat)
+
+- 🔭 I'm currently working on **Data Science**
 - 📫 How to reach me https://www.facebook.com/phong.thanh.471394/
 ## 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
