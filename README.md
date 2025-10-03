@@ -16,7 +16,8 @@
 ## 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-Running-brightgreen)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-Running-brightgreen?logo=apacheairflow&logoColor=white)
+
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?logo=docker&logoColor=white)
