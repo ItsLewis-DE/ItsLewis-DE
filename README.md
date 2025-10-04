@@ -16,7 +16,13 @@
 ## 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-Running-brightgreen?logo=apacheairflow&logoColor=white)[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)[![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/sql/)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-Running-brightgreen?logo=apacheairflow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
+
 
 
 
