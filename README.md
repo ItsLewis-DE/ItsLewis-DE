@@ -21,7 +21,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-Running-brightgreen?logo=apacheairflow&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
 
 
 
