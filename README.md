@@ -13,25 +13,29 @@
 - 🌌 I am really curious about univers 
 - 📫 How to reach me [Facebook](https://www.facebook.com/phong.thanh.471394/)
 
-## 🛠️ Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+## 🛠️ Tech Stack
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-Running-brightgreen?logo=apacheairflow&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
-![Dagster](https://img.shields.io/badge/Dagster-E36209?logo=dagster&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+**Programming**
 
+![Python](assets/tech-stack/python.svg) ![SQL](assets/tech-stack/sql.svg) ![C](assets/tech-stack/c.svg) ![C++](assets/tech-stack/cplusplus.svg) ![Shell](assets/tech-stack/shell.svg)
 
+**Data engineering**
 
+![Apache Airflow](assets/tech-stack/airflow.svg) ![Dagster](assets/tech-stack/dagster.svg) ![Apache Spark](assets/tech-stack/spark.svg) ![Apache Kafka](assets/tech-stack/kafka.svg) ![dbt](assets/tech-stack/dbt.svg)
 
+ETL/ELT pipeline design · Data warehousing · Web scraping
 
+**Databases & storage**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?logo=docker&logoColor=white)
+![PostgreSQL](assets/tech-stack/postgresql.svg) ![Snowflake](assets/tech-stack/snowflake.svg) ![MinIO](assets/tech-stack/minio.svg)
 
+**Cloud**
 
+![AWS: S3 / Lambda / IAM](assets/tech-stack/aws.svg)
+
+**Development**
+
+![Git](assets/tech-stack/git.svg) ![GitHub](assets/tech-stack/github.svg) ![Docker](assets/tech-stack/docker.svg) ![Linux](assets/tech-stack/linux.svg)
 
 ## 📊 GitHub Stats:
 
