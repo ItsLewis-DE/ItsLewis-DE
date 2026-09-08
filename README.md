@@ -145,13 +145,18 @@
   />
 </p>
 
-### 📅 Detailed GitHub Activity
+### ⏱️ Coding Activity
 
 <p align="center">
   <img
-    src="https://metrics.lecoq.io/ItsLewis-DE"
-    width="95%"
-    alt="Detailed GitHub metrics"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItsLewis-DE&theme=tokyonight&utcOffset=7"
+    height="180"
+    alt="Productive coding time"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsLewis-DE&theme=tokyonight"
+    height="180"
+    alt="Repositories per language"
   />
 </p>
 
