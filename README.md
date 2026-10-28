@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Second-year **Data Science** student at the University of Science, VNU-HCM (**HCMUS**)
+- 🎓 **Data Science** student at the University of Science, VNU-HCM (**HCMUS**)
 - ⚙️ Building toward a career in **Data Engineering**
 - 🔭 Interested in **ETL/ELT pipelines, orchestration, data warehousing, databases, and distributed systems**
 - 🗄️ Currently diving deeper into **PostgreSQL internals and query optimization**
